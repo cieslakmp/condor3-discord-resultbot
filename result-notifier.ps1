@@ -78,14 +78,16 @@ if ($livemode -eq 1) {
 
 # GLIDER CLASSES - Enter exactly as they are referenced in the results file. A glider can feature in multiple classes.
 
-$class_club      = 'ASW19','ASW20','DG101G','Libelle','LS4a','Pegase','StdCirrus','ASW15'
-$class_18m       = 'Antares18s','ASG29-18','ASG29Es-18','DG808C-18','JS1-18','JS3-18','Ventus3-18','DG1000S'
-$class_15m       = 'DG808C-15','Diana2','JS3-15', 'Ventus3-15'
-$class_standard  = 'Discus2a','Genesis2','LS8neo'
-$class_open      = 'Antares18s','Arcus','ASG29-18','ASG29Es-18','ASK21','ASW15','ASW19','ASW20','Blanik','DG1000S','DG101G','DG808C-15','DG808C-18','Diana2','Discus2a','DuoDiscus','EB29R','Genesis2','GrunauBaby','JS1-18','JS1-21','JS3-15','JS3-18','K8','Ka6CR','Libelle','LS4a','LS8Neo','Pegase','PilatusB4','SG38','SGS1-26','StdCirrus','StemmeS12','SwiftS1','Ventus3-15','Ventus3-18'
-$class_20m_multi = 'Arcus','DuoDiscus'
+$class_club      = 'ASW15','ASW19','ASW20','DG101G','Genesis2','JantarStd2','Libelle','LS3a','LS4a','Pegase','StdCirrus'
+$class_18m       = 'Antares18s','ASG29-18','ASG29Es-18','DG808C-18','JS1-18','JS3-18','Ventus3-18','AS33Me-18', 'Shark304ES'
+$class_15m       = 'DG808C-15','Diana2','JS3-15', 'Ventus3-15', 'AS33Me-15'
+$class_standard  = 'Discus2a','ASW28-15','LS8neo'
+$class_open      = 'Antares18s','Arcus','AS33Me-15', 'AS33Me-18','ASG29-18','ASG29Es-18','ASG32Mi', 'ASK13', 'ASK21','AstirCS', 'ASW15','ASW19','ASW20','ASW28-15','Blanik','DG1000S','DG101G','DG808C-15','DG808C-18','Diana2','Discus2a','DuoDiscus','DuoDiscusFES','EB29R','Genesis2','GrunauBaby','JantarStd2','JS1-18','JS1-21','JS3-15','JS3-18','JS5-24','K8','Ka6CR','Libelle','LS3a','LS4a','LS8Neo','MiniLAKFes','Pegase','PilatusB4','SF28','SG38','SGS1-26','StdCirrus','StemmeS12','SwiftS1','Ventus3-15','Ventus3-18'
+$class_20m_multi = 'Arcus','DuoDiscus', 'DuoDiscusFES', 'ASG32Mi'
 $class_vintage   = 'Ka6CR','Blanik','K8','GrunauBaby','SG38','SGS1-26'
 $class_school	 = 'ASK21','Blanik','DG1000S','GrunauBaby','K8','Ka6CR','PilatusB4','SG38','SGS1-26'
+$class_13.5m     = 'MiniLAKFes'
+$class_acro      = 'SwiftS1'
 
 # MAIN LOOP
 
